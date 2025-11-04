@@ -64,6 +64,10 @@ Welcome to Shopt, the shopping app that makes discovering and buying products ef
 .cta-btn:hover {
   background: #005ecb;
 }
+.cta-btn:visited {
+  color: #fff;
+  background: #007aff;
+}
 .subtitle {
   color: #555;
   font-size: 1.2rem;
