@@ -11,7 +11,7 @@ Welcome to Shopt, the shopping app that makes discovering and buying products ef
   <img src="/assets/shopt-logo.png" alt="Shopt app logo" class="app-logo">
   <h1>Shop Smarter. Shop Faster. Shop Shopt.</h1>
   <p class="subtitle">The ultimate shopping experience.</p>
-  <a href="#download" class="cta-btn">Download on the App Store</a>
+  <a href="https://apps.apple.com/us/app/shopt/id6744074115" class="cta-btn">Download on the App Store</a>
 </div>
 
 <div class="features">
@@ -33,12 +33,11 @@ Welcome to Shopt, the shopping app that makes discovering and buying products ef
   <img src="/assets/shopt-app-preview.png" alt="Shopt app preview" class="app-screenshot">
 </div>
 
-<!-- <div id="download" class="download-section">
-  <a href="#" class="app-store-badge">
+<div id="download" class="download-section">
+  <a href="https://apps.apple.com/us/app/shopt/id6744074115" class="app-store-badge">
     <img src="/assets/app-store-badge.svg" alt="Download on the App Store">
   </a>
-  <p class="note">Coming soon to the App Store</p>
-</div> -->
+</div>
 
 <style>
 .hero {
