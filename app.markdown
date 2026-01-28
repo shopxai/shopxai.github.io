@@ -6,6 +6,8 @@ layout: home
 permalink: /app/
 ---
 
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+
 Welcome to Shopt, the shopping app that makes discovering and buying products effortless.
 
 <div class="hero">

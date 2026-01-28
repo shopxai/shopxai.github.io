@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+
 # Privacy Policy
 
 Effective Date: July 26, 2025
