@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /app/
 ---
 
 Welcome to Shopt, the shopping app that makes discovering and buying products effortless.
