@@ -336,3 +336,13 @@ p {
   color: rgba(148, 163, 184, 0.9);
 }
 
+footer a {
+  color: #7dafff;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+footer a:hover, footer a:focus {
+  color: #a7c7ff;
+}
+
