@@ -234,6 +234,13 @@ p {
   box-shadow: 0 16px 38px rgba(15, 23, 42, 0.65);
 }
 
+/* Restrict the accelerate image to its container */
+.container.two-column img[alt="Accelerate Purchase Journey"] {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Steps */
 
 .steps-grid {
